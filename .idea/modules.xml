@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmuExPlusAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/EmuExPlusAndroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmuExPlusAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmuExPlusAndroid.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagine-v9/EmuExPlusAndroid.imagine-v9.iml" filepath="$PROJECT_DIR$/.idea/modules/imagine-v9/EmuExPlusAndroid.imagine-v9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EmuExPlusAndroid.iml" filepath="$PROJECT_DIR$/.idea/EmuExPlusAndroid.iml" />
     </modules>
   </component>
 </project>
