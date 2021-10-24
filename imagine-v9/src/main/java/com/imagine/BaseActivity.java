@@ -58,7 +58,7 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 
 
-public final class BaseActivity extends NativeActivity implements AudioManager.OnAudioFocusChangeListener {
+public class BaseActivity extends NativeActivity implements AudioManager.OnAudioFocusChangeListener {
     private static final String logTag = "BaseActivity";
 
     protected static native void onContentRectChanged(long nativeUserData,
