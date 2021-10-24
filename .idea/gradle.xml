@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/emu_nes" />
             <option value="$PROJECT_DIR$/imagine-v9" />
           </set>
         </option>

@@ -1,3 +1,4 @@
 rootProject.name = 'EmuExPlusAndroid'
 include ':app'
 include ':imagine-v9'
+include ':emu_nes'
