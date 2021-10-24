@@ -13,40 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ad2b47f-ce41-4ab7-9c48-71bb5b21b082" name="Default Changelist" comment="Dev:imagine">
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/accept.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/fastForward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/navArrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/overlays128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/palette/Classic (FBX).pal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/palette/Smooth (FBX).pal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/palette/Wavebeam.pal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/direct-f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/direct-v.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/fallback-hq2x-f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/fallback-hq2x-v.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/fallback-scale2x-f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/fallback-scale2x-v.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/hq2x-f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/hq2x-v.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/scale2x-f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/shaders/scale2x-v.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/assets/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/arm64-v8a/libmain.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/arm64-v8a/libnes.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/armeabi-v7a/libmain.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/armeabi-v7a/libnes.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/x86/libmain.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/x86/libnes.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/x86_64/libmain.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emu_nes/src/main/jniLibs/x86_64/libnes.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emu_nes/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/emu_nes/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emu_nes/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/emu_nes/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,15 +78,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewC:/Users/Administrator/AndroidStudioProjects/NesEmu/imagine-v9/src/main/java/com/imagine/ContentViewV16Base.java_SELECTED" value="ContentViewV16Base" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/emu_nes/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/emu_nes/src/main/res/drawable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\AndroidStudioProjects\EmuPlusAndroid\emu_nes\src\main\res\drawable" />
       <recent name="C:\Users\Administrator\AndroidStudioProjects\EmuPlusAndroid\emu_nes\src\main" />
       <recent name="C:\Users\Administrator\AndroidStudioProjects\NesEmu\app\src\main\jniLibs\x86_64" />
       <recent name="C:\Users\Administrator\AndroidStudioProjects\NesEmu\app\src\main\jniLibs\x86" />
       <recent name="C:\Users\Administrator\AndroidStudioProjects\NesEmu\app\src\main\jniLibs\armeabi-v7a" />
-      <recent name="C:\Users\Administrator\AndroidStudioProjects\NesEmu\app\src\main\jniLibs\arm64-v8a" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="com.explusalpha" />
@@ -389,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635082599806</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Dev:imagine">
+      <created>1635083508566</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635083508566</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
