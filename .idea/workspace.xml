@@ -12,9 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad2b47f-ce41-4ab7-9c48-71bb5b21b082" name="Default Changelist" comment="Dev:imagine">
-      <change beforePath="$PROJECT_DIR$/imagine-v9/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/imagine-v9/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="9ad2b47f-ce41-4ab7-9c48-71bb5b21b082" name="Default Changelist" comment="Dev:imagine" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
