@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        minSdkVersion METADATA_MIN_SDK
+        targetSdkVersion METADATA_TARGET_SDK
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFile getDefaultProguardFile('proguard-android-optimize.txt')
+        }
+    }
+
+    lintOptions {
+    	abortOnError false
+	}
+}
+
+dependencies {
+    api "androidx.appcompat:appcompat:1.3.1"
+}
+
