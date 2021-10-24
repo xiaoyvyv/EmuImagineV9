@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/EmuPlusAndroid/app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/EmuPlusAndroid/emu_nes/src/main/res/drawable/ic_launcher_background.xml" value="0.2490740740740741" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK" />
 </project>

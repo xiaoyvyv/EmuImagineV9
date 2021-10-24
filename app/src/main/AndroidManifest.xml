@@ -30,9 +30,7 @@
         android:required="false" />
     <application
         android:allowBackup="true"
-        android:banner="@drawable/banner"
-        android:icon="@mipmap/icon"
-        android:isGame="true"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:requestLegacyExternalStorage="true"
         tools:ignore="AllowBackup">
@@ -78,11 +76,11 @@
 
         </activity>
 
-        <meta-data
-            android:name="xperiaplayoptimized_content"
-            android:resource="@drawable/iconbig" />
-        <meta-data
-            android:name="game_icon"
-            android:resource="@drawable/iconbig" />
+<!--        <meta-data-->
+<!--            android:name="xperiaplayoptimized_content"-->
+<!--            android:resource="@drawable/iconbig" />-->
+<!--        <meta-data-->
+<!--            android:name="game_icon"-->
+<!--            android:resource="@drawable/iconbig" />-->
     </application>
 </manifest>
