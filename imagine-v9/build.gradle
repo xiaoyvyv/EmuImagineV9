@@ -26,9 +26,9 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.explusalpha'
+                groupId = 'com.github.xiaoyvyv'
                 artifactId = 'imagine'
-                version = '9.0.0'
+                version = 'v1.1.0'
             }
         }
     }
