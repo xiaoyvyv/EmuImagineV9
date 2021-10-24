@@ -8,10 +8,17 @@ android {
 
     defaultConfig {
         applicationId "com.explusalpha.nes"
-        minSdk 21
-        targetSdk 30
+        minSdkVersion METADATA_MIN_SDK
+        targetSdkVersion METADATA_TARGET_SDK
+        archivesBaseName = 'NesEmu'
+
         versionCode 1
         versionName "1.0"
+
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'armeabi-v7a', 'arm64-v8a'/*, 'x86',  'x86', 'x86_64'*/
+        }
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -22,17 +29,23 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+
+    lintOptions {
+        abortOnError false
     }
 }
 
 dependencies {
-//    implementation project(':imagine-v9')
+    implementation project(':imagine-v9')
 //    implementation 'com.github.xiaoyvyv:imagine-v9:v1.0.4'
 
     implementation 'androidx.core:core-ktx:1.6.0'
